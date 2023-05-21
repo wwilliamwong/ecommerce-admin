@@ -41,7 +41,7 @@ function Nav() {
           </svg>
           Dashboard
         </Link>
-        <Link href={"/products"} className={inactiveLink}>
+        <Link href={"/Products"} className={inactiveLink}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
